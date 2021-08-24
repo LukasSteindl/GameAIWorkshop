@@ -19,7 +19,3 @@ conda install ffmpeg -c conda-forge
 
 
 import gym
-
-there is a bug in the monitor wrapper in the current version 0.18.0 of gym that is distributed via pypi https://github.com/openai/gym/issues/1925
-it is fixed in this version -> pip install gym==0.18.3
-with that one can render videos to see what the agent is doing.
