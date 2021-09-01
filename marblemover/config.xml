@@ -1,15 +1,11 @@
 <config>
    <agents>
       <agent>
-         <path>C:\Users\lukast\Documents\mancala\lib\agents\randomagent-1.0-SNAPSHOT.jar</path>
-         <classname>at.pwd.randomagent.MancalaRandomAgent</classname>
-      </agent>
-      <agent>
          <path>C:\Users\lukast\Documents\GameAIWorkshop\marblemover\lib\agents\mctsagent-1.0-SNAPSHOT.jar</path>
          <classname>at.pwd.mctsagent.MancalaMCTSAgent</classname>
       </agent>
    </agents>
-   <computation-time>10</computation-time>
+   <computation-time>3</computation-time>
    <stones-per-slot>4</stones-per-slot>
    <slots-per-player>4</slots-per-player>
 </config>
