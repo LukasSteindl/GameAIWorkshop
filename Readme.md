@@ -1,6 +1,6 @@
 The first part of this workshop is based on Prof. Eidenbergers course Strategy Gaming at TU Vienna in 2019.
 The lab uses Robert Fischers Mancala Board Game Engine. (https://github.com/metzzo/mancala)
-The second part consists of a brief introduction of reinforcement learning. The material is mainly taken from public internet and based on an online course of David Silver et. al. 
+The second part consists of a brief introduction of reinforcement learning. The material is mainly taken from public internet and based on an online course on reinforcement learning from David Silver et. al. 
 The presentation includes several youtube links that describe the evolution from classic AI methods up to most recent innovations.
 
 
